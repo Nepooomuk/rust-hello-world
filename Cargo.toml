@@ -1,0 +1,7 @@
+[package]
+name = "hello-world-rust"
+version = "0.1.0"
+authors = ["Robin Nepomuk Mai <robin.nepomuk.mai@me.com>"]
+
+[dependencies]
+iron = "0.4.*"
